@@ -1,6 +1,10 @@
 # flutter_application_1
 
-A new Flutter project.
+This project is a mobile application developed to fulfill a course assignment. The application is built using Flutter, an open-source framework that allows for efficient mobile app development with a single codebase for both iOS and Android platforms.
+
+One of the key features of this application is its ability to interact with external APIs, allowing it to fetch and display data dynamically. This feature demonstrates the integration of real-time data within the app, enhancing its functionality and user experience.
+
+The purpose of this project is to apply the concepts learned during the course, such as user interface (UI) design, API integration, and the implementation of various app functionalities.
 
 ## Getting Started
 
